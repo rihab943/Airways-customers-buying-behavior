@@ -144,6 +144,4 @@ See requirement.txt
 - Logistic Regression produced a convergence warning during training.
 - The reported 7-fold cross-validation mean F1-score for the Random Forest is `0.1544`.
 
-## License
 
-No license information was provided in the source materials. Add a license if you intend to distribute the project publicly.
